@@ -123,7 +123,7 @@ const JwtLogin = () => {
                           sx={{ padding: 0 }}
                         />
 
-                        <Paragraph>Remember Me</Paragraph>
+                        <Paragraph>Remember Me satt</Paragraph>
                       </FlexBox>
 
                       <NavLink
